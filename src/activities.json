@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chess Club",
+    "category": "Games",
+    "description": "Play chess with friends.",
+    "schedule": "Wednesdays after school",
+    "max_participants": 20,
+    "participants": [],
+    "date": "2025-07-23"
+  },
+  {
+    "name": "Programming Class",
+    "category": "Academic",
+    "description": "Learn to code in Python.",
+    "schedule": "Mondays after school",
+    "max_participants": 25,
+    "participants": [],
+    "date": "2025-07-21"
+  },
+  {
+    "name": "Gym Class",
+    "category": "Sports",
+    "description": "Stay fit and healthy.",
+    "schedule": "Fridays after school",
+    "max_participants": 30,
+    "participants": [],
+    "date": "2025-07-25"
+  },
+  {
+    "name": "GitHub Skills",
+    "category": "Academic",
+    "description": "Learn coding and collaboration with GitHub.",
+    "schedule": "Thursdays after school",
+    "max_participants": 15,
+    "participants": [],
+    "date": "2025-07-24"
+  }
+]
